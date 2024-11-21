@@ -8,7 +8,7 @@ Welcome to Blocky Bentley, the home of Blocky's experiments, written as blogs
 ---
 
 ## Author Listing
-You will notice that there is an [Author page](https://blocky.github.io/bentley/authors.html). If you are not listed as an author, contact the site's maintainer so that you can write posts
+You will notice that there is an [Author page](https://ianhecker.github.io/test-website/authors.html). If you are not listed as an author, contact the site's maintainer so that you can write posts
 
 ## Writing a Blog
 Writing blogs is easy! Follow the below steps
@@ -25,7 +25,7 @@ git clone git@github.com:blocky/{{ site.github.repository_name }}.git
 ```
 
 ### Markdown File
-Now, in the [_posts directory](https://github.com/blocky/bentley/tree/main/_posts), we will create a file
+Now, in the [_posts directory](https://github.com/ianhecker/test-website/tree/main/_posts), we will create a file
 
 Let's name your post
 ```
@@ -57,6 +57,6 @@ Now, fill the markdown file with your awesome experiment! Use markdown to format
 ### Publishing
 Publishing is as simple as pushing your markdown post to the Github repository's main branch
 
-Then, Github Actions will publish your posting to the [blog page](https://blocky.github.io/bentley/blog.html)
+Then, Github Actions will publish your posting to the [blog page](https://ianhecker.github.io/test-website/blog.html)
 
 You should also be able to see your posts on your author page
